@@ -1,3 +1,20 @@
+For this project we will use the commands:
+
+
+>> npm i styled-components
+
+>> npm i react-router-dom
+
+
+This project was my first, using Reactjs and FIREBASE backend.
+
+Course miniBlog project (Create complete projects with React / Crie projetos completos com React) on udemy by Matheus Battisti.
+
+I didn't do the same as in the course, I changed some things like: I used styled components for styling.
+
+
+
+*****************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
